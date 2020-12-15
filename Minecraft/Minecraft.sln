@@ -1,11 +1,11 @@
+﻿
 Microsoft Visual Studio Solution File, Format Version 11.00
-# Visual Studio 2008
-
-Project("{E3416675-E3A2-0772-D0B7-8F45F4CE995D}") = "Minecraft", "Assembly-CSharp-firstpass.csproj", "{9F0B7528-384F-CABB-F67A-6E79D00E9438}"
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp-firstpass", "Assembly-CSharp-firstpass.csproj", "{9F0B7528-384F-CABB-F67A-6E79D00E9438}"
 EndProject
-Project("{E3416675-E3A2-0772-D0B7-8F45F4CE995D}") = "Minecraft", "Assembly-CSharp.csproj", "{6D84558F-D623-0CB4-722B-FC6D96BDFC85}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{6D84558F-D623-0CB4-722B-FC6D96BDFC85}"
 EndProject
-Project("{E3416675-E3A2-0772-D0B7-8F45F4CE995D}") = "Minecraft", "Assembly-CSharp-Editor-firstpass.csproj", "{A72A0A26-2701-5F1F-F45D-A093FF0335EE}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp-Editor-firstpass", "Assembly-CSharp-Editor-firstpass.csproj", "{A72A0A26-2701-5F1F-F45D-A093FF0335EE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -28,8 +28,5 @@ Global
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
-	EndGlobalSection
-	GlobalSection(MonoDevelopProperties) = preSolution
-		StartupItem = Assembly-CSharp.csproj
 	EndGlobalSection
 EndGlobal
